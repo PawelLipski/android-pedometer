@@ -1,0 +1,27 @@
+[
+{"avd":{"min":0.52161634,"max":0.78657454},"tag":"At the left ear","x5dn":{"min":2.6048915,"max":4.7500963},"x5up":{"min":7.201759,"max":9.653421},"xg0":{"min":100.0,"max":100.0},"xg12":{"min":0.0,"max":0.0},"xlm12":{"min":0.0,"max":0.0},"yg0":{"min":100.0,"max":100.0},"z5dn":{"min":-1.532289,"max":0.30645782},"z5up":{"min":1.9919758,"max":3.217807},"zg0":{"min":67.5,"max":98.75}},
+
+{"avd":{"min":0.5982308,"max":0.8070051},"tag":"At the right ear","x5dn":{"min":-8.887277,"max":-7.201759},"x5up":{"min":-4.1371803,"max":-3.217807},"xg0":{"min":0.0,"max":0.0},"xg12":{"min":0.0,"max":0.0},"xlm12":{"min":0.0,"max":1.25},"yg0":{"min":100.0,"max":100.0},"z5dn":{"min":-1.3790601,"max":0.15322891},"z5up":{"min":1.8387469,"max":3.217807},"zg0":{"min":46.25,"max":98.75}},
+
+{"avd":{"min":0.6200271,"max":0.7034301},"tag":"In front of your face portrait","x5dn":{"min":-0.91937345,"max":0.45968673},"x5up":{"min":2.1452048,"max":3.371036},"xg0":{"min":92.5,"max":98.75},"xg12":{"min":0.0,"max":0.0},"xlm12":{"min":0.0,"max":0.0},"yg0":{"min":100.0,"max":100.0},"z5dn":{"min":5.9759274,"max":6.435614},"z5up":{"min":11.18571,"max":11.798626},"zg0":{"min":100.0,"max":100.0}},
+
+{"avd":{"min":0.6963182,"max":0.90514904},"tag":"In front of your face landscape top to left","x5dn":{"min":4.2904096,"max":5.209783},"x5up":{"min":6.435614,"max":7.967903},"xg0":{"min":100.0,"max":100.0},"xg12":{"min":0.0,"max":0.0},"xlm12":{"min":0.0,"max":0.0},"yg0":{"min":41.25,"max":77.5},"z5dn":{"min":5.363012,"max":6.129156},"z5up":{"min":11.33894,"max":13.330915},"zg0":{"min":100.0,"max":100.0}},
+
+{"avd":{"min":0.7971776,"max":1.0124737},"tag":"In front of your face landscape top to right","x5dn":{"min":-5.8226986,"max":-5.209783},"x5up":{"min":-2.2984335,"max":-1.8387469},"xg0":{"min":0.0,"max":0.0},"xg12":{"min":0.0,"max":0.0},"xlm12":{"min":0.0,"max":0.0},"yg0":{"min":18.75,"max":42.5},"z5dn":{"min":5.363012,"max":6.435614},"z5up":{"min":10.879252,"max":12.258312},"zg0":{"min":100.0,"max":100.0}},
+
+{"avd":{"min":0.63748354,"max":0.8062291},"tag":"On your left in hand or a bag screen to the body landscape top to front","x5dn":{"min":-12.564771,"max":-11.645397},"x5up":{"min":-6.435614,"max":-5.8226986},"xg0":{"min":0.0,"max":0.0},"xg12":{"min":0.0,"max":0.0},"xlm12":{"min":1.25,"max":6.25},"yg0":{"min":23.75,"max":40.0},"z5dn":{"min":0.30645782,"max":1.0726024},"z5up":{"min":3.064578,"max":4.1371803},"zg0":{"min":97.5,"max":100.0}},
+
+{"avd":{"min":0.77648854,"max":0.8863995},"tag":"On your right in hand or a bag screen to the body landscape top to front","x5dn":{"min":7.967903,"max":8.42759},"x5up":{"min":14.250289,"max":15.016433},"xg0":{"min":100.0,"max":100.0},"xg12":{"min":30.0,"max":41.25},"xlm12":{"min":0.0,"max":0.0},"yg0":{"min":7.5,"max":52.5},"z5dn":{"min":-0.45968673,"max":-0.15322891},"z5up":{"min":1.532289,"max":2.2984335},"zg0":{"min":77.5,"max":93.75}},
+
+{"avd":{"min":2.252464,"max":3.7477264},"tag":"Front pocket screen to the body portrait","x5dn":{"min":0.61291564,"max":2.1452048},"x5up":{"min":10.266336,"max":13.637373},"xg0":{"min":96.25,"max":100.0},"xg12":{"min":2.5,"max":7.5},"xlm12":{"min":0.0,"max":0.0},"yg0":{"min":100.0,"max":100.0},"z5dn":{"min":-12.258312,"max":-5.9759274},"z5up":{"min":2.1452048,"max":4.596867},"zg0":{"min":31.25,"max":51.25}},
+
+{"avd":{"min":1.8923756,"max":3.2178094},"tag":"Back pocket screen to the body portrait","x5dn":{"min":-4.4436383,"max":-1.8387469},"x5up":{"min":5.9759274,"max":9.959879},"xg0":{"min":70.0,"max":87.5},"xg12":{"min":0.0,"max":0.0},"xlm12":{"min":0.0,"max":0.0},"yg0":{"min":100.0,"max":100.0},"z5dn":{"min":-4.903325,"max":-2.4516625},"z5up":{"min":2.9113493,"max":5.363012},"zg0":{"min":52.5,"max":75.0}},
+
+{"avd":{"min":0.9096748,"max":1.0932907},"tag":"Left side pocket screen to the body landscape top to front","x5dn":{"min":-15.47612,"max":-12.564771},"x5up":{"min":-6.588843,"max":-5.66947},"xg0":{"min":0.0,"max":0.0},"xg12":{"min":0.0,"max":0.0},"xlm12":{"min":5.0,"max":18.75},"yg0":{"min":5.0,"max":35.0},"z5dn":{"min":-3.371036,"max":-1.0726024},"z5up":{"min":1.8387469,"max":2.9113493},"zg0":{"min":43.75,"max":58.75}},
+
+{"avd":{"min":2.9650135,"max":3.7402105},"tag":"Right side pocket screen to the body landscape top to front","x5dn":{"min":3.6774938,"max":5.66947},"x5up":{"min":18.387468,"max":19.6133},"xg0":{"min":100.0,"max":100.0},"xg12":{"min":25.0,"max":33.75},"xlm12":{"min":0.0,"max":0.0},"yg0":{"min":50.0,"max":60.0},"z5dn":{"min":-5.209783,"max":-2.1452048},"z5up":{"min":5.209783,"max":6.588843},"zg0":{"min":70.0,"max":82.5}},
+
+{"avd":{"min":1.150493,"max":1.7538313},"tag":"Backpack screen to the body portrait","x5dn":{"min":-6.2823853,"max":-5.209783},"x5up":{"min":-2.1452048,"max":-0.61291564},"xg0":{"min":0.0,"max":0.0},"xg12":{"min":0.0,"max":0.0},"xlm12":{"min":0.0,"max":0.0},"yg0":{"min":100.0,"max":100.0},"z5dn":{"min":-7.3549876,"max":-4.4436383},"z5up":{"min":1.0726024,"max":1.9919758},"zg0":{"min":32.5,"max":53.75}},
+
+{"avd":{"min":1.0604709,"max":1.7161627},"tag":"Backpack back to the body portrait","x5dn":{"min":1.0726024,"max":3.5242648},"x5up":{"min":7.0485296,"max":7.8146744},"xg0":{"min":100.0,"max":100.0},"xg12":{"min":0.0,"max":0.0},"xlm12":{"min":0.0,"max":0.0},"yg0":{"min":100.0,"max":100.0},"z5dn":{"min":-2.7581203,"max":-0.7661445},"z5up":{"min":4.1371803,"max":7.8146744},"zg0":{"min":36.25,"max":63.75}}
+]
